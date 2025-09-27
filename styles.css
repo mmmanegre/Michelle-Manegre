@@ -12,7 +12,7 @@ body {
             margin-right: 40px;
             margin-left: 40px;
             margin-top: 15px;
-            background: rgb(125, 228, 128);
+            background: rgb(32, 142, 190);
             border-style:solid;
             border-color:white;
             border-width:5px;
@@ -42,7 +42,7 @@ body {
         }
         
         section.welcome{
-            background: rgb(125, 228, 128);
+            background: rgb(32, 142, 190);
             padding: 20px;
             margin-right: 40px;
             margin-left: 40px;
@@ -58,7 +58,7 @@ body {
 
         }
         section.intro{
-            background: rgb(125, 228, 128);
+            background: rgb(32, 142, 190);
             height: 160px;
             border-style: double;
             border-color:white;
@@ -77,7 +77,7 @@ body {
             justify-content: center;
         }
         section.secondnavi{
-            background:rgb(125, 228, 128);
+            background:rgb(32, 142, 190);
             height:40px;
             border-style: solid;
             border-color: white;
@@ -88,7 +88,7 @@ body {
             
         }
         section.bottles{
-            background: rgb(125, 228, 128);
+            background: rgb(32, 142, 190);
             border-style: solid;
             border-color: white;
             border-width: 4px;
@@ -105,7 +105,7 @@ body {
      
 
         section.contact{
-            background: rgb(125, 228, 128);
+            background: rgb(32, 142, 190);
             padding: 20px;
             margin-right: 40px;
             margin-left: 40px;
@@ -118,14 +118,14 @@ body {
         
         
         .links{
-            background: rgb(125, 228, 128);
+            background: rgb(32, 142, 190);
             padding: 5px;
             display: flex;
             margin: auto;
         }
 
         section.project{
-            background:rgb(125, 228, 128);
+            background:rgb(32, 142, 190);
             margin-right: 40px;
             margin-left: 40px;
             border-style: solid;
@@ -133,10 +133,11 @@ body {
             height: 240px;
         }
         section.site{
-            background:rgb(125, 228, 128);
+            background:rgb(32, 142, 190);
             margin-right: 40px;
             margin-left: 40px;
             border-style: solid;
             border-width: 4px;
             height: 180px;
         }
+
